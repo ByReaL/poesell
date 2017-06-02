@@ -10,6 +10,8 @@ import unicodedata
 import time
 import _thread
 
+from tabulate import tabulate
+
 from settings import (POE_LOGIN_EMAIL, POE_LOGIN_PASSWORD, POE_LEAGUE)
 
 hash_extractor = re.compile('''\<input type="hidden" name="hash" value="([a-zA-Z0-9]+)" id="hash"\>''')
@@ -24,6 +26,7 @@ class MyStash:
         self.account_name = self._get_account_name()
         self.stash_url = 'https://www.pathofexile.com/character-window/get-stash-items?league=%s&accountName=%s&tabs=1' % (POE_LEAGUE, self.account_name)
         self.mdb = sqlite3.connect(':memory:', check_same_thread=False)
+        self.mdb.row_factory = sqlite3.Row
         self.cur = self.mdb.cursor()
         self._init_stash_db()
         self._init_items_db()
@@ -167,3 +170,8 @@ class MyStash:
             'chrom' : 0.07,
         }
         return amount * chaos_rate[currency]
+
+    def display(self):
+        details = self.cur.execute('''SELECT * FROM stash''').fetchall()
+        print(details)
+        print(tabulate(details, headers='keys', tablefmt='orgtbl'))

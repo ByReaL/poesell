@@ -23,6 +23,7 @@ class Whispers:
         self. row_count = -1
         self.lines_loaded = 0
         self.mdb = sqlite3.connect(':memory:', check_same_thread=False)
+        self.mdb.row_factory = sqlite3.Row
         self.cur = self.mdb.cursor()
         self._init_db()
         self.file_time = os.stat(POE_LOG_FILE).st_size

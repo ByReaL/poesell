@@ -7,15 +7,17 @@ from libs.poetrade import PoeTrade
 from libs.whispers import Whispers
 
 
-whispers = Whispers()
-whispers.monitor(True)
+#whispers = Whispers()
+#whispers.monitor(True)
 mystash = MyStash()
+
+mystash.display()
 
 while True:
     key_in = input('# ')
     print('>%s<' % key_in)
     if key_in is 'exit':
-        whispers.monitor(False)
+        #whispers.monitor(False)
         break
     elif key_in is '':
         pass
