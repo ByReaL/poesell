@@ -8,4 +8,18 @@ from libs.whispers import Whispers
 
 
 whispers = Whispers()
+whispers.monitor(True)
 mystash = MyStash()
+
+while True:
+    key_in = input('# ')
+    print('>%s<' % key_in)
+    if key_in is 'exit':
+        whispers.monitor(False)
+        break
+    elif key_in is '':
+        pass
+    elif key_in is 'vendor':
+        pass
+    else:
+        pass
