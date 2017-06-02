@@ -1,0 +1,104 @@
+{
+   "verified":false,
+   "w":2,
+   "h":2,
+   "ilvl":80,
+   "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/RatsNest.png?scale=1&w=2&h=2&v=a20e8fdbbf1dc39051fe8a0458cab8113",
+   "league":"Legacy",
+   "id":"4f712e8b4f5bc20815e01ac87c24a8e56381cd9c260afb25f1966b7a50335676",
+   "sockets":[
+      {
+         "group":0,
+         "attr":"D"
+      },
+      {
+         "group":0,
+         "attr":"D"
+      },
+      {
+         "group":0,
+         "attr":"D"
+      },
+      {
+         "group":0,
+         "attr":"D"
+      }
+   ],
+   "name":"<<set:MS>><<set:M>><<set:S>>Rat's Nest",
+   "typeLine":"Ursine Pelt",
+   "identified":true,
+   "corrupted":false,
+   "lockedToCharacter":false,
+   "note":"~b\/o 80 chaos",
+   "properties":[
+      {
+         "name":"Quality",
+         "values":[
+            [
+               "+20%",
+               1
+            ]
+         ],
+         "displayMode":0,
+         "type":6
+      },
+      {
+         "name":"Evasion Rating",
+         "values":[
+            [
+               "648",
+               1
+            ]
+         ],
+         "displayMode":0,
+         "type":17
+      }
+   ],
+   "requirements":[
+      {
+         "name":"Level",
+         "values":[
+            [
+               "55",
+               0
+            ]
+         ],
+         "displayMode":0
+      },
+      {
+         "name":"Dex",
+         "values":[
+            [
+               "114",
+               0
+            ]
+         ],
+         "displayMode":1
+      }
+   ],
+   "explicitMods":[
+      "15% increased Attack Speed",
+      "75% increased Global Critical Strike Chance",
+      "150% increased Evasion Rating",
+      "22% increased Rarity of Items found",
+      "10% increased Movement Speed",
+      "10% reduced Character Size"
+   ],
+   "enchantMods":[
+      "25% increased Arc Damage"
+   ],
+   "flavourText":[
+      "A lad with no fear of the pest \r",
+      "Let rats fill his helmet in jest \r",
+      "When they picked his skull clean\r",
+      "Where his head should have been\r",
+      "Was naught but a vermin-filled nest!"
+   ],
+   "frameType":3,
+   "x":0,
+   "y":1,
+   "inventoryId":"Stash19",
+   "socketedItems":[
+
+   ]
+}

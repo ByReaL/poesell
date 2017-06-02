@@ -93,7 +93,7 @@ class Whispers:
     def print_history_on_item(self, item):
         print('---------------------------------------------------------------------------------------------------')
         for row in self.cur.execute('SELECT * FROM poe WHERE item=?', (item,)):
-            print(row)
+            print(row.rstrip())
 
     def monitor(self, state):
         if 'start' in state:

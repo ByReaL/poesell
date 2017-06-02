@@ -1,0 +1,3778 @@
+{
+   "numTabs":21,
+   "tabs":[
+      {
+         "n":"1",
+         "i":0,
+         "id":"3117cfcbb8f4b588d682884dfd6c4c029d62d91a102c1723e8564ecd19033e6a",
+         "type":"NormalStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":124,
+            "g":84,
+            "b":54
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/535a40fc8b\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/f159e79054\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/21241d0535\/Stash_TabR.png"
+      },
+      {
+         "n":"1",
+         "i":1,
+         "id":"896cef8e798944933a1ff27011338c7b79fd6f6b9b04cc9e52e902f6d04fd747",
+         "type":"NormalStash",
+         "hidden":true,
+         "selected":false,
+         "colour":{
+            "r":124,
+            "g":84,
+            "b":54
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/535a40fc8b\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/f159e79054\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/21241d0535\/Stash_TabR.png"
+      },
+      {
+         "n":"2",
+         "i":2,
+         "id":"08c9545892f578e85e341d3faed76e5b4f31b6b6c3f51674996d17f6746480bb",
+         "type":"NormalStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":124,
+            "g":84,
+            "b":54
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/535a40fc8b\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/f159e79054\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/21241d0535\/Stash_TabR.png"
+      },
+      {
+         "n":"3",
+         "i":3,
+         "id":"4cff0f361ffaf1851dcaa33ef2087bcda369db68c14e036fb3fb3cf84d675e69",
+         "type":"NormalStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":124,
+            "g":84,
+            "b":54
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/535a40fc8b\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/f159e79054\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/21241d0535\/Stash_TabR.png"
+      },
+      {
+         "n":"4",
+         "i":4,
+         "id":"f59c7e4abfdecf7c818d7c4a1ff03d2e2490f0c683068c7bc49e6b1938c1c310",
+         "type":"NormalStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":124,
+            "g":84,
+            "b":54
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/535a40fc8b\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/f159e79054\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/OjgxNDgwMjI7fX19\/21241d0535\/Stash_TabR.png"
+      },
+      {
+         "n":"ML",
+         "i":5,
+         "id":"a815d030f464ddcd47c04aea210be93a54d3da66b3a93cad089f9f2314a88b2f",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":255,
+            "g":255,
+            "b":153
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/8ff4253efe\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/bb73f12637\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/22745ba921\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 regal",
+         "i":6,
+         "id":"7844055c04d4e984aa02f6e37938fe298e9f9005942f6a14bb70ddeac7715f48",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":99,
+            "g":128,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/c64747b68d\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/d6161fcf22\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/1185e76da6\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 regal",
+         "i":7,
+         "id":"93a0eaf7aaa7e11d02cd18fe278525cae0287767d80e1dee50a1268eba86df7a",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":0,
+            "g":0,
+            "b":255
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3Njk2MTt9fX0,\/49ca92df25\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3Njk2MTt9fX0,\/36ac864ec2\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3Njk2MTt9fX0,\/ebc3169574\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 regal",
+         "i":8,
+         "id":"dcb0f574bd9c2e5cc5cd470add60f5eb2282629223d3646731754cb7af2ef794",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":89,
+            "g":0,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDk0NDUxMjt9fX0,\/8ade9bb940\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDk0NDUxMjt9fX0,\/ba64385447\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDk0NDUxMjt9fX0,\/55c7c28a3a\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 chaos",
+         "i":9,
+         "id":"ac85c142525da78b5d6e8d0381d15b218da5e2270102314c77a26cbab09bcd8f",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":191,
+            "g":0,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi00MjU5ODQwO319fQ,,\/98a058fc32\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi00MjU5ODQwO319fQ,,\/edc7e2c501\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi00MjU5ODQwO319fQ,,\/42ff0bf3e8\/Stash_TabR.png"
+      },
+      {
+         "n":"$",
+         "i":10,
+         "id":"053ea46716df03b70871913cb8c9f3ec4bfe7dd7b2c1a46c1bea5069446f3ba3",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":99,
+            "g":128,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/c64747b68d\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/d6161fcf22\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/1185e76da6\/Stash_TabR.png"
+      },
+      {
+         "n":"MAPS",
+         "i":11,
+         "id":"a4d06540d82cd17dd0b996aaffa4416f34dfc4b61ee6f9caba4a883bdb68aa0c",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":255,
+            "g":255,
+            "b":153
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/8ff4253efe\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/bb73f12637\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/22745ba921\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 4 chrom",
+         "i":12,
+         "id":"62d8fe343fb3a345796715e3a25e30bb29cc3eb3ebf60a7d32bcb2b6d8de27db",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":255,
+            "g":255,
+            "b":153
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/8ff4253efe\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/bb73f12637\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDM7fX19\/22745ba921\/Stash_TabR.png"
+      },
+      {
+         "n":"MAP6+",
+         "i":13,
+         "id":"01e20520e2f22ff46448e6e6fa2f98c5ffe47070eee3eb0c3391044f3ac4cb78",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":255,
+            "g":213,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMTAwODt9fX0,\/4fd846c823\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMTAwODt9fX0,\/8842f2d7ef\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMTAwODt9fX0,\/0916f3ec87\/Stash_TabR.png"
+      },
+      {
+         "n":"MAP11+",
+         "i":14,
+         "id":"7c65a60b113ac634f8b8c5101c42098b78c653745eb2de96e540c88f0ae22236",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":191,
+            "g":0,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi00MjU5ODQwO319fQ,,\/98a058fc32\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi00MjU5ODQwO319fQ,,\/edc7e2c501\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi00MjU5ODQwO319fQ,,\/42ff0bf3e8\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 vaal",
+         "i":15,
+         "id":"d7f2f15dc70dd98e9a5ca5b6e36b63c68a925122c3b293f0ef9354df4ee534c7",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":255,
+            "g":170,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0yMjAxNjt9fX0,\/7b4a0c09c6\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0yMjAxNjt9fX0,\/48cdff3a2d\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0yMjAxNjt9fX0,\/2e84ef10af\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 vaal",
+         "i":16,
+         "id":"b5019eabc51b1ba01a987bed6af58d293d0453dabccb8624044c528d162f0c30",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":128,
+            "g":179,
+            "b":255
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi04MzQyNTI5O319fQ,,\/ce67a12d5c\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi04MzQyNTI5O319fQ,,\/b0c1218fe0\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi04MzQyNTI5O319fQ,,\/3690bb27e5\/Stash_TabR.png"
+      },
+      {
+         "n":"~b\/o 1 vaal",
+         "i":17,
+         "id":"a16852f471ee96b25aab078bbf500386d5a987fa9b25694b075562303c661086",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":0,
+            "g":0,
+            "b":255
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3Njk2MTt9fX0,\/49ca92df25\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3Njk2MTt9fX0,\/36ac864ec2\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3Njk2MTt9fX0,\/ebc3169574\/Stash_TabR.png"
+      },
+      {
+         "n":"SELL",
+         "i":18,
+         "id":"32e088277ccba521bc37d3d47d4cff2b363ab354664129a4d7e4f3c00b4a3935",
+         "type":"PremiumStash",
+         "hidden":false,
+         "selected":true,
+         "colour":{
+            "r":0,
+            "g":0,
+            "b":128
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3NzA4ODt9fX0,\/7baaab4c91\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3NzA4ODt9fX0,\/c6786cda39\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xNjc3NzA4ODt9fX0,\/997b161859\/Stash_TabR.png"
+      },
+      {
+         "n":"$$$",
+         "i":19,
+         "id":"674f793bfb2f5b49eee0e00ad52200f99b68ea742bf4b83f7897740c1f1a726c",
+         "type":"CurrencyStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":99,
+            "g":128,
+            "b":0
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/c64747b68d\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/d6161fcf22\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0xMDI1NjM4NDt9fX0,\/1185e76da6\/Stash_TabR.png"
+      },
+      {
+         "n":"ES",
+         "i":20,
+         "id":"302e98be1357ddf4c82415a97b131116a0298f8cbab8c4737977d8cee48281ff",
+         "type":"EssenceStash",
+         "hidden":false,
+         "selected":false,
+         "colour":{
+            "r":204,
+            "g":0,
+            "b":154
+         },
+         "srcL":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjE7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0zNDA3NzE4O319fQ,,\/b5a6e7231f\/Stash_TabL.png",
+         "srcC":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjI7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0zNDA3NzE4O319fQ,,\/7f17957d2b\/Stash_TabC.png",
+         "srcR":"https:\/\/web.poecdn.com\/gen\/image\/YTozOntpOjA7aToyNDtp\/OjE7czozMjoiMDJhMTk3\/N2QxZDAzNDQzNmU3NzM5\/ZjgzZDEzYjIwN2YiO2k6\/MjthOjI6e2k6MDtpOjI7\/aToxO2E6Mzp7czoxOiJ0\/IjtpOjM7czoxOiJuIjtz\/OjA6IiI7czoxOiJjIjtp\/Oi0zNDA3NzE4O319fQ,,\/0ac5e6a211\/Stash_TabR.png"
+      }
+   ],
+   "items":[
+      {
+         "verified":false,
+         "w":2,
+         "h":3,
+         "ilvl":77,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/OneHandMaces\/Mjolner.png?scale=1&w=2&h=3&v=126c5f2e81eb64cbbe0fe2534b1a71ea3",
+         "league":"Legacy",
+         "id":"ea802f0831c8e5e6178592ded25e1b58c4a4982c803c94fd7b7526e0b9d3bdce",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":1,
+               "attr":"S"
+            },
+            {
+               "group":1,
+               "attr":"S"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Mj\u00f6lner",
+         "typeLine":"Gavel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 34 vaal",
+         "properties":[
+            {
+               "name":"One Handed Mace",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "99-186",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "5.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.15",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            },
+            {
+               "name":"Weapon Range",
+               "values":[
+                  [
+                     "9",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":14
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "60",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "412",
+                     1
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "300",
+                     1
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "15% reduced Enemy Stun Threshold"
+         ],
+         "explicitMods":[
+            "84% increased Physical Damage",
+            "Skills Chain +1 times",
+            "35% increased Lightning Damage with Weapons",
+            "+200 Strength Requirement",
+            "+300 Intelligence Requirement",
+            "Cast a Socketed Lightning Spell on Hit\nSocketed Lightning Spells deal 100% increased Spell Damage if Triggered"
+         ],
+         "flavourText":[
+            "Look the storm in the eye and you will have its respect."
+         ],
+         "frameType":3,
+         "x":10,
+         "y":9,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":51,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicint.png?scale=1&w=1&h=1&v=cd579ea22c05f1c6ad2fd015d7a710bd3",
+         "league":"Legacy",
+         "id":"7419a81f5a52665609471cbb6a39b585dee8cec306e00ec377908801a5de3a5c",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Sol Drop",
+         "typeLine":"Cobalt Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 9 chaos",
+         "explicitMods":[
+            "15% increased Trap Damage",
+            "7% increased maximum Life",
+            "+3 Energy Shield gained for each Enemy hit by your Attacks",
+            "+12% to Cold and Lightning Resistances"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":1,
+         "y":11,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":51,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicint.png?scale=1&duplicated=1&w=1&h=1&v=cd579ea22c05f1c6ad2fd015d7a710bd3",
+         "league":"Legacy",
+         "id":"a5f1081ff21f0a43c3b5b2829237c56af4fd96132e2f0815f0ec5a556e806742",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Sol Drop",
+         "typeLine":"Cobalt Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 9 chaos",
+         "duplicated":true,
+         "explicitMods":[
+            "15% increased Trap Damage",
+            "7% increased maximum Life",
+            "+3 Energy Shield gained for each Enemy hit by your Attacks",
+            "+12% to Cold and Lightning Resistances"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":0,
+         "y":11,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":0,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/CurrencyRerollRare.png?scale=1&stackSize=1&w=1&h=1&v=c60aa876dd6bab31174df91b1da1b4f93",
+         "league":"Legacy",
+         "id":"6a7bb87687faf909d6a1e77b19c0bf78ac620d381c416149c002439dd70b6310",
+         "sockets":[
+
+         ],
+         "name":"",
+         "typeLine":"Chaos Orb",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 20 chrom",
+         "properties":[
+            {
+               "name":"Stack Size",
+               "values":[
+                  [
+                     "1\/10",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "explicitMods":[
+            "Reforges a rare item with new random properties"
+         ],
+         "descrText":"Right click this item then left click a rare item to apply it.",
+         "frameType":5,
+         "stackSize":1,
+         "maxStackSize":10,
+         "x":0,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":70,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Maps\/Vaal04.png?scale=1&w=1&h=1&v=72207b7e72a4ed4fafd3e72f7b0b2a933",
+         "league":"Legacy",
+         "id":"4c6fb0294eb453b1d5387cf6bcf7bcaa176b09b4cef03bc7a1e0f06b13b059ee",
+         "sockets":[
+
+         ],
+         "name":"",
+         "typeLine":"Sacrifice at Dusk",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 1 regal",
+         "descrText":"Can be used in the Eternal Laboratory or a personal Map Device.",
+         "flavourText":[
+            "The Vaal shall never fear the setting of our sun."
+         ],
+         "frameType":0,
+         "x":3,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":4,
+         "ilvl":76,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/TwoHandWeapons\/Staves\/Tarynsshiver.png?scale=1&w=2&h=4&v=2794eba8dec8db29541eae96bc3555e23",
+         "league":"Legacy",
+         "id":"6205d32a444b990db64ef6fbbf22d5a96ef92bf98141ab5b2807f15e3ab09389",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":1,
+               "attr":"S"
+            },
+            {
+               "group":1,
+               "attr":"S"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Taryn's Shiver",
+         "typeLine":"Maelstr\u00f6m Staff",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 40 chaos",
+         "properties":[
+            {
+               "name":"Staff",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "57-119",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "6.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.20",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            },
+            {
+               "name":"Weapon Range",
+               "values":[
+                  [
+                     "11",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":14
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "64",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "113",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "113",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "20% Chance to Block"
+         ],
+         "explicitMods":[
+            "+2 to Level of Socketed Cold Gems",
+            "60% increased Spell Damage",
+            "46% increased Cold Damage",
+            "20% increased Cast Speed",
+            "8% chance to Freeze",
+            "Enemies Frozen by you take 20% increased Damage"
+         ],
+         "flavourText":[
+            "Shed by the winged beast of night,\r",
+            "A scaly frost-encrusted thorn.\r",
+            "All who feel its wintry light\r",
+            "Shiver in pain at the frozen dawn."
+         ],
+         "frameType":3,
+         "x":4,
+         "y":4,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":0,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/CurrencyAddModToMagic.png?scale=1&stackSize=1&w=1&h=1&v=97e63b85807f2419f4208482fd0b48593",
+         "league":"Legacy",
+         "id":"3b345db288c6a44488b2e319a53c606319afe297423178ebaec4598a02a76332",
+         "sockets":[
+
+         ],
+         "name":"",
+         "typeLine":"Orb of Augmentation",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 1 fuse",
+         "properties":[
+            {
+               "name":"Stack Size",
+               "values":[
+                  [
+                     "1\/30",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "explicitMods":[
+            "Enchants a magic item with a new random property"
+         ],
+         "descrText":"Right click this item then left click a magic item to apply it. Magic items can have up to two random properties.",
+         "frameType":5,
+         "stackSize":1,
+         "maxStackSize":30,
+         "x":2,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":76,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicint.png?scale=1&w=1&h=1&v=cd579ea22c05f1c6ad2fd015d7a710bd3",
+         "league":"Legacy",
+         "id":"89504b2f893ed1f16260833307b5d4597df74831533ffaad161ce3a2d641bc45",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Behemoth Breath",
+         "typeLine":"Cobalt Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 10 chaos",
+         "explicitMods":[
+            "8% increased maximum Energy Shield",
+            "+12% to Fire Resistance",
+            "12% increased Shock Duration on Enemies",
+            "3% chance to Shock"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":5,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":70,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicint.png?scale=1&w=1&h=1&v=cd579ea22c05f1c6ad2fd015d7a710bd3",
+         "league":"Legacy",
+         "id":"a572182d6d4de772acf63336ed9dd8d72adbd3031f5fa2e98df77229c5af18cd",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Blight Heart",
+         "typeLine":"Cobalt Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 1 exa",
+         "explicitMods":[
+            "14% increased Lightning Damage",
+            "3% increased Attack Speed",
+            "12% increased Shock Duration on Enemies",
+            "3% chance to Shock"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":1,
+         "y":3,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":84,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/RatsNest.png?scale=1&w=2&h=2&v=a20e8fdbbf1dc39051fe8a0458cab8113",
+         "league":"Legacy",
+         "id":"a1707b883160aaa95c3ddee3443212b9b1f2e413024fa1c10cadc36d5f829ae5",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Rat's Nest",
+         "typeLine":"Ursine Pelt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 80 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "648",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "55",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "114",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "15% increased Attack Speed",
+            "75% increased Global Critical Strike Chance",
+            "150% increased Evasion Rating",
+            "23% increased Rarity of Items found",
+            "10% increased Movement Speed",
+            "10% reduced Character Size"
+         ],
+         "enchantMods":[
+            "20% increased Animate Weapon Duration"
+         ],
+         "flavourText":[
+            "A lad with no fear of the pest \r",
+            "Let rats fill his helmet in jest \r",
+            "When they picked his skull clean\r",
+            "Where his head should have been\r",
+            "Was naught but a vermin-filled nest!"
+         ],
+         "frameType":3,
+         "x":0,
+         "y":9,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":61,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/RatsNest.png?scale=1&w=2&h=2&v=a20e8fdbbf1dc39051fe8a0458cab8113",
+         "league":"Legacy",
+         "id":"f3dcdf11ce787d844e2e007d085755c862983599f21bb9241963d95cfa4bdab9",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Rat's Nest",
+         "typeLine":"Ursine Pelt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 80 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "648",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "55",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "114",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "15% increased Attack Speed",
+            "75% increased Global Critical Strike Chance",
+            "150% increased Evasion Rating",
+            "22% increased Rarity of Items found",
+            "10% increased Movement Speed",
+            "10% reduced Character Size"
+         ],
+         "enchantMods":[
+            "25% increased Vigilant Strike Damage"
+         ],
+         "flavourText":[
+            "A lad with no fear of the pest \r",
+            "Let rats fill his helmet in jest \r",
+            "When they picked his skull clean\r",
+            "Where his head should have been\r",
+            "Was naught but a vermin-filled nest!"
+         ],
+         "frameType":3,
+         "x":0,
+         "y":7,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":80,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/RatsNest.png?scale=1&w=2&h=2&v=a20e8fdbbf1dc39051fe8a0458cab8113",
+         "league":"Legacy",
+         "id":"2f6a643b1fdcbad8f81140a56d79258a11aab1784298bbe0e7b9967c882efad0",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Rat's Nest",
+         "typeLine":"Ursine Pelt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 80 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "648",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "55",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "114",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "15% increased Attack Speed",
+            "74% increased Global Critical Strike Chance",
+            "150% increased Evasion Rating",
+            "20% increased Rarity of Items found",
+            "10% increased Movement Speed",
+            "10% reduced Character Size"
+         ],
+         "enchantMods":[
+            "25% increased Orb of Storms Damage"
+         ],
+         "flavourText":[
+            "A lad with no fear of the pest \r",
+            "Let rats fill his helmet in jest \r",
+            "When they picked his skull clean\r",
+            "Where his head should have been\r",
+            "Was naught but a vermin-filled nest!"
+         ],
+         "frameType":3,
+         "x":0,
+         "y":5,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":3,
+         "ilvl":56,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/BodyArmours\/TabulaRasa.png?scale=1&w=2&h=3&v=099db24f7dadb353bb90d1853996ca743",
+         "league":"Legacy",
+         "id":"407fc4f9caf43b210a8500953951b869a1a9c94e651459c1a818b1e6dc41db1f",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Tabula Rasa",
+         "typeLine":"Simple Robe",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 20 chaos",
+         "frameType":3,
+         "x":10,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":84,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicstr.png?scale=1&w=1&h=1&v=5496129c557831c118a679c1001f3df93",
+         "league":"Legacy",
+         "id":"e98f8d32321e3d5d3e72b390aeeb07170139e5aea6ac2b924718b0ba3d703b05",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Ghoul Stone",
+         "typeLine":"Crimson Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 4 vaal",
+         "explicitMods":[
+            "+1% Chance to Block with Shields",
+            "10% increased Damage",
+            "17% increased Armour",
+            "+13% to Fire Resistance"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":0,
+         "y":3,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":75,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Boots\/SinTrek.png?scale=1&w=2&h=2&v=1c71c57e5a6247ba890001a0a1b2efbb3",
+         "league":"Legacy",
+         "id":"13a379f86efe2643e1edc78c484654f22d8b0a30d83f84009255b98d84bfaa3f",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":1,
+               "attr":"D"
+            },
+            {
+               "group":2,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Sin Trek",
+         "typeLine":"Stealth Boots",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 5 vaal",
+         "properties":[
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "374",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            },
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "110",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "62",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "117",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+25 to Dexterity",
+            "+24 to Intelligence",
+            "96% increased Evasion Rating",
+            "+110 to maximum Energy Shield",
+            "30% increased Movement Speed",
+            "Enemies Cannot Leech Life From You"
+         ],
+         "flavourText":[
+            "Do not let them step on your feet. Keep them at bay."
+         ],
+         "frameType":3,
+         "x":8,
+         "y":8,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":72,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/HelmetStr8.png?scale=1&w=2&h=2&v=d6983597c3725deb605d48ae00f6aaee3",
+         "league":"Legacy",
+         "id":"8b122b0a21cfb8956173548df8996c24d9721109f7033704de50bc611d6ab6f3",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Wrath Glance",
+         "typeLine":"Samite Helmet",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 20 vaal",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Armour",
+               "values":[
+                  [
+                     "549",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":16
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "55",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "114",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+14 to Accuracy Rating",
+            "+126 to Armour",
+            "30% increased Armour",
+            "+94 to maximum Life",
+            "+21% to Fire Resistance",
+            "10% increased Stun and Block Recovery",
+            "5% increased Light Radius"
+         ],
+         "craftedMods":[
+            "+30% to Lightning Resistance"
+         ],
+         "frameType":2,
+         "x":2,
+         "y":10,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":3,
+         "ilvl":75,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/BodyArmours\/BodyInt2C.png?scale=1&w=2&h=3&v=3230b59077d8340c5b49196cce65e9563",
+         "league":"Legacy",
+         "id":"e0e24181050ecbe016267406f62f01b8c56a890e36a543a7d60b1a0425e212eb",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":1,
+               "attr":"I"
+            },
+            {
+               "group":2,
+               "attr":"I"
+            },
+            {
+               "group":2,
+               "attr":"I"
+            },
+            {
+               "group":2,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Maelstr\u00f6m Hide",
+         "typeLine":"Widowsilk Robe",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 10 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+7%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "323",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "65",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "153",
+                     1
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+33 to Intelligence",
+            "+108 to maximum Life",
+            "+66 to maximum Mana",
+            "+141 to maximum Energy Shield",
+            "+29% to Fire Resistance",
+            "18% reduced Attribute Requirements"
+         ],
+         "frameType":2,
+         "x":4,
+         "y":1,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":78,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/AmethystRing.png?scale=1&w=1&h=1&v=e6f04837a3bb2bab63f8f06522bff3923",
+         "league":"Legacy",
+         "id":"e43a1784d9261973ead9c7e3fc30b4e32c688d5fc8f074527050c4dd439995cf",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Gale Hold",
+         "typeLine":"Amethyst Ring",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 15 chaos",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "48",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "+9% to Chaos Resistance"
+         ],
+         "explicitMods":[
+            "Adds 9 to 14 Physical Damage to Attacks",
+            "+18 to Intelligence",
+            "17% increased Rarity of Items found",
+            "+15% to all Elemental Resistances",
+            "+35% to Cold Resistance"
+         ],
+         "craftedMods":[
+            "+34 to maximum Life"
+         ],
+         "frameType":2,
+         "x":2,
+         "y":1,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":77,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/CitrineAmulet.png?scale=1&w=1&h=1&v=392b4ef08d8b72daaf1d0ec50d0173983",
+         "league":"Legacy",
+         "id":"935f57f7a22cb24392f745bee14ca4e6d3ed3d4387bf2a77408299bd630c18bf",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Dread Charm",
+         "typeLine":"Citrine Amulet",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 3 vaal",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "40",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "+19 to Strength and Dexterity"
+         ],
+         "explicitMods":[
+            "3% increased Spell Damage",
+            "+22 to maximum Energy Shield",
+            "+21% to Fire Resistance",
+            "+17% to Lightning Resistance",
+            "0.35% of Physical Attack Damage Leeched as Life"
+         ],
+         "craftedMods":[
+            "+22% to Cold Resistance"
+         ],
+         "frameType":2,
+         "x":10,
+         "y":8,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":3,
+         "ilvl":75,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/Wands\/WandUnique3.png?scale=1&w=1&h=3&v=3dac49e911d9ed0aa82b90a86753e8a93",
+         "league":"Legacy",
+         "id":"5e24a0877040c4c7c3de47ce6c639597082ffc716496012e9f2708a67131e8a8",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Midnight Bargain",
+         "typeLine":"Engraved Wand",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 25 vaal",
+         "properties":[
+            {
+               "name":"Wand",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "17-32",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "7.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.50",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "40",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "131",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "22% increased Spell Damage"
+         ],
+         "explicitMods":[
+            "+14 to Intelligence",
+            "Minions have 19% increased Movement Speed",
+            "Minions deal 24% increased Damage",
+            "+1 to maximum number of Zombies",
+            "+1 to maximum number of Spectres",
+            "+2 to maximum number of Skeletons",
+            "Reserves 30% of Life",
+            "Cannot be used with Chaos Inoculation"
+         ],
+         "flavourText":[
+            "A chilling hush, a scraping sound\r",
+            "Of things no more entombed in ground.\r",
+            "A shambling horde is on its way\r",
+            "To crush the very light of day."
+         ],
+         "frameType":3,
+         "x":2,
+         "y":2,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":72,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Shields\/ShieldInt6.png?scale=1&w=2&h=2&v=c2c4daefcbef51dad8593cf61505a1933",
+         "league":"Legacy",
+         "id":"d4ae88666b7f05143419becfc05fb8f2ee84f7afc79eba4ef7507fc135c413c5",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":1,
+               "attr":"I"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Glyph Call",
+         "typeLine":"Titanium Spirit Shield",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 5 chaos",
+         "properties":[
+            {
+               "name":"Chance to Block",
+               "values":[
+                  [
+                     "25%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":15
+            },
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "89",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "68",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "159",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+99 to maximum Life",
+            "+45 to maximum Mana",
+            "+5 to maximum Energy Shield",
+            "+16% to Cold Resistance",
+            "+20% to Lightning Resistance"
+         ],
+         "craftedMods":[
+            "+28% to Fire Resistance"
+         ],
+         "frameType":2,
+         "x":4,
+         "y":10,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":77,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/HelmetDex10.png?scale=1&w=2&h=2&v=429392c896c4a48b46ed48d4e2e89e7f3",
+         "league":"Legacy",
+         "id":"322d7980d2f4e5e8263d696084b207012eaea1c5813ab6c8c0b7fdb9da10cc76",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":1,
+               "attr":"S"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Foe Crown",
+         "typeLine":"Lion Pelt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 2 chaos",
+         "properties":[
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "675",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "70",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "150",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "43% increased Evasion Rating",
+            "+36 to maximum Life",
+            "+42% to Cold Resistance",
+            "+43% to Lightning Resistance",
+            "15% increased Stun and Block Recovery"
+         ],
+         "craftedMods":[
+            "61% increased Evasion Rating"
+         ],
+         "frameType":2,
+         "x":8,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":78,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/RomirasBanquet.png?scale=1&w=1&h=1&v=e42d652234e99d8eb194aad5a5142bc33",
+         "league":"Legacy",
+         "id":"e582bc90a18159841c9f3dfcd6db17596e135b08351fc68ef406ce73c71a00fe",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Romira's Banquet",
+         "typeLine":"Diamond Ring",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 2 chaos",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "60",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "24% increased Global Critical Strike Chance"
+         ],
+         "explicitMods":[
+            "+333 to Accuracy Rating",
+            "+21% to Global Critical Strike Multiplier",
+            "+55 to maximum Mana",
+            "0.4% of Physical Attack Damage Leeched as Mana",
+            "Gain a Power Charge on non-Critical Strike",
+            "Lose all Power Charges on Critical Strike"
+         ],
+         "flavourText":[
+            "The Empress gave Romira two sons\r",
+            "Born of his brother's seed\r",
+            "Romira threw her a banquet\r",
+            "A perfidious meal indeed."
+         ],
+         "frameType":3,
+         "x":10,
+         "y":7,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":80,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Boots\/BootsStr3.png?scale=1&w=2&h=2&v=98f1f6d1137161abc1ef30ee82dadc623",
+         "league":"Legacy",
+         "id":"d3f974e077d3e1abecea194f8178aa143a17cd8d6c135cf141253d7f82ffc08e",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Wrath League",
+         "typeLine":"Ancient Greaves",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 9 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Armour",
+               "values":[
+                  [
+                     "213",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":16
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "46",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "82",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "41% increased Armour",
+            "+61 to maximum Life",
+            "+21% to Fire Resistance",
+            "+6% to Lightning Resistance",
+            "+17% to Chaos Resistance",
+            "20% increased Movement Speed",
+            "13% increased Stun and Block Recovery"
+         ],
+         "frameType":2,
+         "x":2,
+         "y":7,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":3,
+         "ilvl":77,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/OneHandAxes\/Dyadus.png?scale=1&w=2&h=3&v=4857ff8fcb6a5bc947c1544fca8316203",
+         "league":"Legacy",
+         "id":"0e6ff84749439e76bbdce1dfa0c230b81579a5319658aa3209aaf624145614ec",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":1,
+               "attr":"D"
+            },
+            {
+               "group":1,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Dyadus",
+         "typeLine":"Infernal Axe",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 2 chaos",
+         "properties":[
+            {
+               "name":"One Handed Axe",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "51-85",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Elemental Damage",
+               "values":[
+                  [
+                     "274-330",
+                     4
+                  ],
+                  [
+                     "282-330",
+                     5
+                  ]
+               ],
+               "displayMode":0,
+               "type":10
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "5.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.46",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            },
+            {
+               "name":"Weapon Range",
+               "values":[
+                  [
+                     "9",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":14
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "69",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "158",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "76",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "Adds 274 to 330 Fire Damage in Main Hand",
+            "Adds 282 to 330 Cold Damage in Off Hand",
+            "12% increased Attack Speed",
+            "Enemies Chilled by you take 100% increased Burning Damage",
+            "25% chance to Ignite when in Main Hand",
+            "Chill Enemies for 1 second on Hit with this Weapon when in Off Hand"
+         ],
+         "flavourText":[
+            "Born of love, forged in blood\r",
+            "He burned as a torch in the blackest night\r",
+            "She shone as ice in the winter sun\r",
+            "Proudly, fiercely\r",
+            "At their mother's side, forever."
+         ],
+         "frameType":3,
+         "x":6,
+         "y":4,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":77,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Boots\/SinTrek.png?scale=1&w=2&h=2&v=1c71c57e5a6247ba890001a0a1b2efbb3",
+         "league":"Legacy",
+         "id":"567ec0d4aa0cb0d69ffffe3f46fd7d1f6f43905cae8544be95c22c576bd5d745",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Sin Trek",
+         "typeLine":"Stealth Boots",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 5 vaal",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+10%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "384",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            },
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "155",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "62",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "117",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+29 to Dexterity",
+            "+22 to Intelligence",
+            "91% increased Evasion Rating",
+            "+141 to maximum Energy Shield",
+            "30% increased Movement Speed",
+            "Enemies Cannot Leech Life From You"
+         ],
+         "flavourText":[
+            "Do not let them step on your feet. Keep them at bay."
+         ],
+         "frameType":3,
+         "x":8,
+         "y":10,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":1,
+         "ilvl":76,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f53",
+         "league":"Legacy",
+         "id":"64de049934773a5914ade3d1e127b65dda235a4b6619e7a8ec244c63bdba9584",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Gloom Thread",
+         "typeLine":"Heavy Belt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 2 vaal",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "54",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "+25 to Strength"
+         ],
+         "explicitMods":[
+            "+94 to maximum Life",
+            "+42 to maximum Energy Shield",
+            "+19% to Fire Resistance",
+            "+22% to Cold Resistance",
+            "12% reduced Flask Charges used"
+         ],
+         "craftedMods":[
+            "20% increased Elemental Damage with Weapons"
+         ],
+         "frameType":2,
+         "x":8,
+         "y":7,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":78,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/HelmetInt11.png?scale=1&w=2&h=2&v=e785517985bfa266e348519edfc144853",
+         "league":"Legacy",
+         "id":"e9287b84403ba7c1646bd77f71a7b727a1f90ba4fe389e1b48447fd3fbddfc54",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Glyph Ward",
+         "typeLine":"Hubris Circlet",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 1 vaal",
+         "properties":[
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "162",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "69",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "154",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+86 to maximum Life",
+            "+41% to Lightning Resistance",
+            "+11% to Chaos Resistance",
+            "Reflects 3 Physical Damage to Melee Attackers"
+         ],
+         "craftedMods":[
+            "62% increased Energy Shield"
+         ],
+         "frameType":2,
+         "x":8,
+         "y":5,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":79,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/Amulet4Unique.png?scale=1&w=1&h=1&v=64218cb6f18db9440f2691a6a52f8fee3",
+         "league":"Legacy",
+         "id":"627d43fde46ec1fbc823db2de68d8c02adf48a3f51cfb203e59475216817a717",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Karui Ward",
+         "typeLine":"Jade Amulet",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 4 chaos",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "5",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "+25 to Dexterity"
+         ],
+         "explicitMods":[
+            "+30 to Strength",
+            "+100 to Accuracy Rating",
+            "30% increased Projectile Speed",
+            "10% increased Movement Speed",
+            "30% increased Projectile Damage"
+         ],
+         "flavourText":[
+            "\"Shoot first, ask no questions.\"\r",
+            "- Karui wisdom"
+         ],
+         "frameType":3,
+         "x":3,
+         "y":1,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":3,
+         "ilvl":81,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/Wands\/Wand3.png?scale=1&w=1&h=3&v=ac9f7eee09f5a8f580151298712f2a9e3",
+         "league":"Legacy",
+         "id":"12ba554623039e5a98ac6aa1c25b48aaeddfaf74fba748a0b1b4e633a88b58d0",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Dread Edge",
+         "typeLine":"Imbued Wand",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 5 chaos",
+         "properties":[
+            {
+               "name":"Wand",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "24-44",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "7.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.67",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "60",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "188",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "35% increased Spell Damage"
+         ],
+         "explicitMods":[
+            "21% increased Spell Damage",
+            "30% increased Cold Damage",
+            "Adds 10 to 17 Cold Damage to Spells",
+            "11% increased Attack Speed",
+            "+77 to maximum Mana",
+            "+2 Life gained for each Enemy hit by Attacks"
+         ],
+         "frameType":2,
+         "x":3,
+         "y":2,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":78,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/Claws\/Clawshield3.png?scale=1&w=2&h=2&v=6bcb10631c51c4aeaf11345bb6041ed13",
+         "league":"Legacy",
+         "id":"b8d620df45c53a09c5007305da6b0db3c46e042d307f0ab623687759cfd0992e",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Advancing Fortress",
+         "typeLine":"Gut Ripper",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 5 vaal",
+         "properties":[
+            {
+               "name":"Claw",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "40-107",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "6.30%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.50",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            },
+            {
+               "name":"Weapon Range",
+               "values":[
+                  [
+                     "9",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":14
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "46",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "80",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "80",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "+44 Life gained for each Enemy hit by Attacks"
+         ],
+         "explicitMods":[
+            "Socketed Gems are Supported by level 12 Fortify",
+            "102% increased Physical Damage",
+            "+110 to Evasion Rating",
+            "+43 to maximum Life",
+            "+35 to maximum Energy Shield",
+            "Reflects 90 Physical Damage to Melee Attackers",
+            "15% Chance to Block"
+         ],
+         "flavourText":[
+            "\"A man cowers behind his walls.\r",
+            "A woman carries her fortress with her.\r",
+            "In heart, in mind, in hand.\"\r",
+            "- Sekhema Deshret"
+         ],
+         "frameType":3,
+         "x":6,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":77,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicint.png?scale=1&w=1&h=1&v=cd579ea22c05f1c6ad2fd015d7a710bd3",
+         "league":"Legacy",
+         "id":"85c45c003c0ce65a83bce01684b32400684e8216368a9c477186df03aebc22b2",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Maelstr\u00f6m Creed",
+         "typeLine":"Cobalt Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 50 chaos",
+         "explicitMods":[
+            "12% increased Spell Damage",
+            "16% increased Spell Damage while wielding a Staff",
+            "16% increased Fire Damage"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":11,
+         "y":8,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":1,
+         "ilvl":71,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Belts\/Belt5.png?scale=1&w=2&h=1&v=5aa764352f06af8fd3231e6a52d710f53",
+         "league":"Legacy",
+         "id":"49c6eb028ac8770eea1af73204ae3f58403deedfdfd0236120ecf4a927ec749e",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Empyrean Locket",
+         "typeLine":"Heavy Belt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 19 vaal",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "48",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "+34 to Strength"
+         ],
+         "explicitMods":[
+            "32% increased Elemental Damage with Weapons",
+            "+85 to maximum Life",
+            "+35 to maximum Energy Shield",
+            "+15% to Fire Resistance",
+            "+7% to Lightning Resistance"
+         ],
+         "craftedMods":[
+            "+25% to Cold Resistance"
+         ],
+         "frameType":2,
+         "x":0,
+         "y":4,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":3,
+         "ilvl":71,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/OneHandSwords\/ElderSword.png?scale=1&w=2&h=3&v=f099599213846b766996cf4efbf9a4443",
+         "league":"Legacy",
+         "id":"9d68e6acc50288a9b055eb540f8597c08bb4e3bece007b93af11a61e8c028bd2",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Innsbury Edge",
+         "typeLine":"Elder Sword",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 18 chaos",
+         "properties":[
+            {
+               "name":"One Handed Sword",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "85-156",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "5.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.54",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            },
+            {
+               "name":"Weapon Range",
+               "values":[
+                  [
+                     "9",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":14
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "47",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "81",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "81",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "+330 to Accuracy Rating"
+         ],
+         "explicitMods":[
+            "136% increased Physical Damage",
+            "18% increased Attack Speed",
+            "0.2% of Chaos Damage Leeched as Life",
+            "25% of Physical Damage Converted to Chaos Damage",
+            "Attacks with this Weapon Maim on hit"
+         ],
+         "flavourText":[
+            "A sword he brought, his foes to maim and rend,\r",
+            "from places dark behind forbidden doors,\r",
+            "but night by night he woke with frighten'd roars\r",
+            "from ghoulish dreams, too strange to comprehend."
+         ],
+         "frameType":3,
+         "x":8,
+         "y":2,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":71,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Gloves\/GlovesInt4.png?scale=1&w=2&h=2&v=373419137bbd6b0e4ba9439b3ff1a7d53",
+         "league":"Legacy",
+         "id":"f70573c9a17b253a73ad5ab0188a9954988575332f0953bec87a2afe79162dbf",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Golem Fist",
+         "typeLine":"Conjurer Gloves",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 5 vaal",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "73",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "55",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "79",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+39 to Intelligence",
+            "+72 to maximum Life",
+            "+21 to maximum Mana",
+            "38% increased Energy Shield",
+            "+35% to Fire Resistance",
+            "+11% to Chaos Resistance",
+            "13% increased Stun and Block Recovery"
+         ],
+         "frameType":2,
+         "x":6,
+         "y":7,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":75,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Boots\/TwoTonedBoots3B.png?scale=1&w=2&h=2&v=be244f0640954c1c79656ff79fcfc79f3",
+         "league":"Legacy",
+         "id":"98c06ce7031fc766bb9eb67a04baa63e3d14ae340c582e33b3ed287f73ecc608",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"I"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Vortex Road",
+         "typeLine":"Two-Toned Boots",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 10 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Armour",
+               "values":[
+                  [
+                     "131",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":16
+            },
+            {
+               "name":"Energy Shield",
+               "values":[
+                  [
+                     "58",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":18
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "72",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Str",
+               "values":[
+                  [
+                     "62",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "62",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "+31 to Strength",
+            "+57 to maximum Life",
+            "+16 to maximum Energy Shield",
+            "30% increased Movement Speed"
+         ],
+         "craftedMods":[
+            "+29% to Fire Resistance"
+         ],
+         "enchantMods":[
+            "10% reduced Mana Cost of Skills if you've been Hit Recently"
+         ],
+         "frameType":2,
+         "x":4,
+         "y":8,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":0,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Currency\/CurrencyRerollSocketColours.png?scale=1&stackSize=1&w=1&h=1&v=9d377f2cf04a16a39aac7b14abc9d7c33",
+         "league":"Legacy",
+         "id":"575ab6475c94548441a215f7732c172ab10d701d1dcda8b7cf1d5dd92798a04d",
+         "sockets":[
+
+         ],
+         "name":"",
+         "typeLine":"Chromatic Orb",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 0.49 chaos",
+         "properties":[
+            {
+               "name":"Stack Size",
+               "values":[
+                  [
+                     "1\/20",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "explicitMods":[
+            "Reforges the colour of sockets on an item"
+         ],
+         "descrText":"Right click this item then left click a socketed item to apply it.",
+         "frameType":5,
+         "stackSize":1,
+         "maxStackSize":20,
+         "x":1,
+         "y":0,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":69,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Amulets\/CitrineAmulet.png?scale=1&w=1&h=1&v=392b4ef08d8b72daaf1d0ec50d0173983",
+         "league":"Legacy",
+         "id":"df25db9415dd8fb76c905ea8e9656bbdb131ad45cc2bffd3b3d72109399e551b",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Loath Medallion",
+         "typeLine":"Citrine Amulet",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 25 chaos",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "50",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "+17 to Strength and Dexterity"
+         ],
+         "explicitMods":[
+            "Adds 3 to 7 Physical Damage to Attacks",
+            "+258 to Accuracy Rating",
+            "+13 to maximum Energy Shield",
+            "+13% to all Elemental Resistances",
+            "+30% to Fire Resistance"
+         ],
+         "craftedMods":[
+            "+26 to maximum Life"
+         ],
+         "frameType":2,
+         "x":3,
+         "y":9,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":39,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/OneHandWeapons\/Claws\/Claw8unique.png?scale=1&w=2&h=2&v=4b7e1b56f6ac7d1b37db91d482fd46153",
+         "league":"Legacy",
+         "id":"ed84fd7891850a505c9a89e435ed294b6c92e83bde244ea54e6a404ecf3fe07c",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Mortem Morsu",
+         "typeLine":"Fright Claw",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~price 4 vaal",
+         "properties":[
+            {
+               "name":"Claw",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+12%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "25-98",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "7.87%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.80",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            },
+            {
+               "name":"Weapon Range",
+               "values":[
+                  [
+                     "9",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":14
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "34",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "61",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            },
+            {
+               "name":"Int",
+               "values":[
+                  [
+                     "61",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "implicitMods":[
+            "+20 Life gained for each Enemy hit by Attacks"
+         ],
+         "explicitMods":[
+            "100% increased Physical Damage",
+            "20% increased Attack Speed",
+            "25% increased Critical Strike Chance",
+            "+40% to Global Critical Strike Multiplier",
+            "14% of Physical Damage Converted to Chaos Damage",
+            "Poisonous Hit",
+            "25% reduced Enemy Stun Threshold with this Weapon"
+         ],
+         "flavourText":[
+            "Fear blisters the heart and thins the blood.\r",
+            "Fear squeezes lungs and sets the guts to fester.\r",
+            "Fear is the wound left untended."
+         ],
+         "frameType":3,
+         "x":6,
+         "y":2,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":71,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Rings\/Ring1.png?scale=1&w=1&h=1&v=7c04d5a65caa0371eccfe06a129a74073",
+         "league":"Legacy",
+         "id":"d246bad081f46e4ca747aa677ea2f553d4f828f88891c5d645b2a1e03b5544a1",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Phoenix Whorl",
+         "typeLine":"Iron Ring",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 30 chaos",
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "35",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            }
+         ],
+         "implicitMods":[
+            "Adds 1 to 4 Physical Damage to Attacks"
+         ],
+         "explicitMods":[
+            "Adds 9 to 14 Physical Damage to Attacks",
+            "+23 to Dexterity",
+            "+57 to maximum Life",
+            "+26 to maximum Energy Shield",
+            "+7% to all Elemental Resistances",
+            "+26% to Fire Resistance"
+         ],
+         "frameType":2,
+         "x":2,
+         "y":9,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":3,
+         "ilvl":80,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/BodyArmours\/TabulaRasa.png?scale=1&w=2&h=3&v=099db24f7dadb353bb90d1853996ca743",
+         "league":"Legacy",
+         "id":"2f1020607fe4f1d79d39b1cb295de428c4dad15734466d31c4e635595d2bb83e",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Tabula Rasa",
+         "typeLine":"Simple Robe",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 19 chaos",
+         "frameType":3,
+         "x":6,
+         "y":9,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":1,
+         "h":1,
+         "ilvl":84,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Jewels\/basicdex.png?scale=1&w=1&h=1&v=7375b3bb90a9809870b31d1aa4aa68b93",
+         "league":"Legacy",
+         "id":"39233ccff8832eb026f14d358c465d7f8cc31671d8d113bedefe4814ab289d16",
+         "sockets":[
+
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Spirit Joy",
+         "typeLine":"Viridian Jewel",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 5 chaos",
+         "explicitMods":[
+            "15% increased Cold Damage",
+            "6% increased maximum Mana",
+            "+15% to Lightning Resistance",
+            "+8 to Dexterity and Intelligence"
+         ],
+         "descrText":"Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.",
+         "frameType":2,
+         "x":11,
+         "y":7,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":4,
+         "ilvl":72,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Weapons\/TwoHandWeapons\/Bows\/BloodPerigreeBREACH.png?scale=1&w=2&h=4&v=fd388f565d6c38dae0e0c1d4010f08003",
+         "league":"Legacy",
+         "id":"649071ecc7987d076b719e7099653553d4b784c9401de00d872b113e9d1d6499",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"S"
+            },
+            {
+               "group":0,
+               "attr":"G"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Xoph's Nurture",
+         "typeLine":"Citadel Bow",
+         "identified":true,
+         "corrupted":true,
+         "lockedToCharacter":false,
+         "properties":[
+            {
+               "name":"Bow",
+               "values":[
+
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Physical Damage",
+               "values":[
+                  [
+                     "101-408",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":9
+            },
+            {
+               "name":"Critical Strike Chance",
+               "values":[
+                  [
+                     "6.00%",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":12
+            },
+            {
+               "name":"Attacks per Second",
+               "values":[
+                  [
+                     "1.25",
+                     0
+                  ]
+               ],
+               "displayMode":0,
+               "type":13
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "64",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "185",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "284% increased Physical Damage",
+            "50% of Physical Damage Converted to Fire Damage",
+            "10% chance to Ignite",
+            "Ignites your Skills cause spread to other Enemies within a Radius of 12",
+            "Recover 59 Life when you Ignite an Enemy"
+         ],
+         "flavourText":[
+            "Upon the grey winds his love spreads."
+         ],
+         "frameType":3,
+         "x":10,
+         "y":3,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      },
+      {
+         "verified":false,
+         "w":2,
+         "h":2,
+         "ilvl":80,
+         "icon":"https:\/\/web.poecdn.com\/image\/Art\/2DItems\/Armours\/Helmets\/RatsNest.png?scale=1&w=2&h=2&v=a20e8fdbbf1dc39051fe8a0458cab8113",
+         "league":"Legacy",
+         "id":"4f712e8b4f5bc20815e01ac87c24a8e56381cd9c260afb25f1966b7a50335676",
+         "sockets":[
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            },
+            {
+               "group":0,
+               "attr":"D"
+            }
+         ],
+         "name":"<<set:MS>><<set:M>><<set:S>>Rat's Nest",
+         "typeLine":"Ursine Pelt",
+         "identified":true,
+         "corrupted":false,
+         "lockedToCharacter":false,
+         "note":"~b\/o 80 chaos",
+         "properties":[
+            {
+               "name":"Quality",
+               "values":[
+                  [
+                     "+20%",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":6
+            },
+            {
+               "name":"Evasion Rating",
+               "values":[
+                  [
+                     "648",
+                     1
+                  ]
+               ],
+               "displayMode":0,
+               "type":17
+            }
+         ],
+         "requirements":[
+            {
+               "name":"Level",
+               "values":[
+                  [
+                     "55",
+                     0
+                  ]
+               ],
+               "displayMode":0
+            },
+            {
+               "name":"Dex",
+               "values":[
+                  [
+                     "114",
+                     0
+                  ]
+               ],
+               "displayMode":1
+            }
+         ],
+         "explicitMods":[
+            "15% increased Attack Speed",
+            "75% increased Global Critical Strike Chance",
+            "150% increased Evasion Rating",
+            "22% increased Rarity of Items found",
+            "10% increased Movement Speed",
+            "10% reduced Character Size"
+         ],
+         "enchantMods":[
+            "25% increased Arc Damage"
+         ],
+         "flavourText":[
+            "A lad with no fear of the pest \r",
+            "Let rats fill his helmet in jest \r",
+            "When they picked his skull clean\r",
+            "Where his head should have been\r",
+            "Was naught but a vermin-filled nest!"
+         ],
+         "frameType":3,
+         "x":0,
+         "y":1,
+         "inventoryId":"Stash19",
+         "socketedItems":[
+
+         ]
+      }
+   ]
+}

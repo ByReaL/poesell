@@ -8,3 +8,4 @@ from libs.whispers import Whispers
 
 
 whispers = Whispers()
+mystash = MyStash()
