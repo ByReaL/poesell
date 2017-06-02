@@ -13,6 +13,7 @@ from __future__ import absolute_import, print_function, division, unicode_litera
 # MY STASH
 POE_LOGIN_EMAIL    = r'some@email.com'
 POE_LOGIN_PASSWORD = r'<your password in clear at your own risk>'
+POE_LEAGUE         = r'Legacy'
 
 # POE TRADE
 

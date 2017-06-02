@@ -10,11 +10,10 @@ import unicodedata
 import time
 import _thread
 
-from ..settings import POE_LOG_FILE
+from settings import POE_LOG_FILE
 
 whisper_extractor = re.compile('''^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}).*@From (.*): Hi, I would like to buy your (.*) listed for ([0-9]+) (.*) in Legacy .*''')
 #2017/05/17 09:43:48 242550390 951 [INFO Client 4196] @From Harvesting_Season: Hi, I would like to buy your Sacrificial Harvest Viridian Jewel listed for 1 fusing in Legacy (stash tab "~b/o 1 fuse"; position: left 1, top 4)
-
 
 
 class Whispers:
@@ -24,22 +23,22 @@ class Whispers:
         self.lines_loaded = 0
         self.mdb = sqlite3.connect(':memory:', check_same_thread=False)
         self.cur = self.mdb.cursor()
-        self._init_db(self.cur)
-        self._load_log_file_in_db()
-        self.mdb.commit()
+        self._init_db()
+        self.monitor_state = False
 
     def get_count(self):
         self.row_count = self.cur.execute('SELECT COUNT(*) FROM poe').fetchone()
         return self.row_count
 
-    def _init_db(self, cur):
-        cur.execute('''CREATE TABLE poe (
+    def _init_db(self):
+        self.cur.execute('''CREATE TABLE poe (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             Date TEXT,
             Player TEXT,
             Item TEXT,
             Amount INTEGER,
             Currency TEXT)''')
+        self._load_log_file_in_db()
 
     def _load_log_file_in_db(self, start_line=0):
         with io.open(POE_LOG_FILE, 'rt+', encoding='utf-8') as fh:
@@ -50,6 +49,7 @@ class Whispers:
                 line = unicodedata.normalize('NFKD', line).encode('ascii', 'replace').decode('ascii')  # hack to get rid of non utf-8 chars
                 print(line)
                 self._insert_line_in_database(line)
+        self.mdb.commit()
 
     def _insert_line_in_database(self, line):
         items = whisper_extractor.search(line)
@@ -76,7 +76,7 @@ class Whispers:
             print('ERROR: ' + line)
 
     def _monitor_trade_requests(self):
-        while True:
+        while self.monitor_state:
             time.sleep(1)
             new_file_time = os.stat(POE_LOG_FILE).st_size
             # print(new_file_time)
@@ -90,4 +90,17 @@ class Whispers:
                     id, date, player, item, amount, currency = self._get_last_row()
                     print_history_on_item(item)
 
-    _thread.start_new_thread(monitor_trade_requests, ())
+    def print_history_on_item(self, item):
+        print('---------------------------------------------------------------------------------------------------')
+        for row in self.cur.execute('SELECT * FROM poe WHERE item=?', (item,)):
+            print(row)
+
+    def monitor(self, state):
+        if 'start' in state:
+            self.monitor_state = True
+            _thread.start_new_thread(self._monitor_trade_requests, ())
+        elif 'stop' in state:
+            self.monitor_state = False
+        else:
+            print('unrecognized state %s <start,stop> are supported' % (state, ))
+
