@@ -3,7 +3,6 @@
 from __future__ import absolute_import, print_function, division, unicode_literals
 
 import json
-import sqlite3
 import re
 import requests
 import unicodedata
@@ -17,16 +16,16 @@ from settings import (POE_LOGIN_EMAIL, POE_LOGIN_PASSWORD, POE_LEAGUE)
 hash_extractor = re.compile('''\<input type="hidden" name="hash" value="([a-zA-Z0-9]+)" id="hash"\>''')
 #<input type="hidden" name="hash" value="ed99f40eec40b691ccf69badb36b5e74" id="hash">
 
+
 class MyStash:
 
-    def __init__(self):
+    def __init__(self, mdb):
         self.login_url = 'https://www.pathofexile.com/login'
         self.account_name_url = 'https://www.pathofexile.com/character-window/get-account-name'
         self.session = self._initialize_session()
         self.account_name = self._get_account_name()
         self.stash_url = 'https://www.pathofexile.com/character-window/get-stash-items?league=%s&accountName=%s&tabs=1' % (POE_LEAGUE, self.account_name)
-        self.mdb = sqlite3.connect(':memory:', check_same_thread=False)
-        self.mdb.row_factory = sqlite3.Row
+        self.mdb = mdb
         self.cur = self.mdb.cursor()
         self._init_stash_db()
         self._init_items_db()
@@ -127,7 +126,7 @@ class MyStash:
 
     def __get_item_name(self, line1, line2):
         item_name = line1.replace('<<set:MS>><<set:M>><<set:S>>', '')
-        item_name += ' ' + line2
+        item_name += ' ' + line2.replace('<<set:MS>><<set:M>><<set:S>>', '')
         return item_name
 
     def __get_item_price(self, note, stash_name):
@@ -171,7 +170,10 @@ class MyStash:
         }
         return amount * chaos_rate[currency]
 
-    def display(self):
+    def display_stashes(self):
         details = self.cur.execute('''SELECT * FROM stash''').fetchall()
-        print(details)
-        print(tabulate(details, headers='keys', tablefmt='orgtbl'))
+        print(tabulate(details, headers=details[0].keys(), tablefmt='psql'))
+
+    def display_items(self, stash):
+        details = self.cur.execute('''SELECT * FROM items WHERE stash_ind=?''', (stash, )).fetchall()
+        print(tabulate(details, headers=details[0].keys(), tablefmt='psql'))

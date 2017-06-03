@@ -8,7 +8,9 @@ import re
 import sqlite3
 import unicodedata
 import time
-import _thread
+
+from threading import Thread
+from tabulate import tabulate
 
 from settings import POE_LOG_FILE
 
@@ -19,21 +21,20 @@ _monitor_state = False
 
 class Whispers:
 
-    def __init__(self):
+    def __init__(self, mdb):
         self. row_count = -1
         self.lines_loaded = 0
-        self.mdb = sqlite3.connect(':memory:', check_same_thread=False)
-        self.mdb.row_factory = sqlite3.Row
+        self.mdb = mdb
         self.cur = self.mdb.cursor()
         self._init_db()
         self.file_time = os.stat(POE_LOG_FILE).st_size
 
     def get_count(self):
-        self.row_count = self.cur.execute('SELECT COUNT(*) FROM poe').fetchone()
+        self.row_count = self.cur.execute('SELECT COUNT(*) FROM whispers').fetchone()
         return self.row_count
 
     def _init_db(self):
-        self.cur.execute('''CREATE TABLE poe (
+        self.cur.execute('''CREATE TABLE whispers (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             Date TEXT,
             Player TEXT,
@@ -72,13 +73,20 @@ class Whispers:
             # date = items.group(9)
 
             self.cur.execute('''
-                INSERT INTO poe (Date, Player, Item, Amount, Currency)
+                INSERT INTO whispers (Date, Player, Item, Amount, Currency)
                 VALUES (?,?,?,?,?)''', (date, player, item, amount, currency))
         else:
             print('ERROR: ' + line)
 
+    def _get_last_row_id(self):
+        return self.cur.execute('SELECT COUNT(*) FROM whispers').fetchone()[0]
+
+    def _get_last_row(self):
+        return self.cur.execute('SELECT * FROM whispers ORDER BY id DESC LIMIT 1').fetchone()
+
     def _monitor_trade_requests(self):
         global _monitor_state
+        last_row_id = self._get_last_row_id()
         while _monitor_state:
             time.sleep(1)
             new_file_time = os.stat(POE_LOG_FILE).st_size
@@ -87,22 +95,21 @@ class Whispers:
                 self.file_time = new_file_time
                 self._load_log_file_in_db(self.lines_loaded)
                 self.mdb.commit()
-                new_row_id = self.cur.execute('SELECT COUNT(*) FROM poe').fetchone()
+                new_row_id = self._get_last_row_id()
                 if new_row_id != last_row_id:
                     last_row_id = new_row_id
                     id, date, player, item, amount, currency = self._get_last_row()
-                    print_history_on_item(item)
+                    self.print_history_on_item(item)
 
     def print_history_on_item(self, item):
-        print('---------------------------------------------------------------------------------------------------')
-        for row in self.cur.execute('SELECT * FROM poe WHERE item=?', (item,)):
-            print(row.rstrip())
+        history = self.cur.execute('SELECT * FROM (SELECT * FROM whispers WHERE item=? ORDER BY id DESC LIMIT 20) ORDER BY id ASC', (item,)).fetchall()
+        print(tabulate(history, headers=history[0].keys(), tablefmt='psql'))
 
     def monitor(self, state):
         global _monitor_state
         if state:
             _monitor_state = True
-            _thread.start_new_thread(self._monitor_trade_requests, ())
+            Thread(target=self._monitor_trade_requests, args=()).start()
         else:
             _monitor_state = False
 
