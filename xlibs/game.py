@@ -61,6 +61,29 @@ else
 WinGetPos, X, Y, Width, Height, A
 '''
 
+    def open_stash(self):
+        pass
+
+    def go_to_stash_tab(self, stash_ind):
+        pass
+
+    def stash_coordinates_to_pizels(self, stash_x, stash_y):
+        pixel_x = 0
+        pixel_y = 0
+        return pixel_x, pixel_y
+
+    def control_click(self, pixel_x, pixel_y):
+        pass
+
+    def move_from_stats_to_inventory(self, stash_ind, stash_x, stash_y):
+        self.focus()
+        self.open_stash()
+        self.go_to_stash_tab(stash_ind)
+        pixel_x, pixel_y = self.stash_coordinates_to_pizels(stash_x, stash_y)
+        self.control_click(pixel_x, pixel_y)
+
+
+
 
 # ahk.ahkdll(pyclient, "", fx)
 # ahk.ahkassign(create_string_buffer("fx"), fx)

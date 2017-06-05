@@ -11,7 +11,7 @@ import _thread
 
 from tabulate import tabulate
 
-from settings import (POE_LOGIN_EMAIL, POE_LOGIN_PASSWORD, POE_LEAGUE)
+from settings import (POE_LOGIN_EMAIL, POE_LOGIN_PASSWORD, POE_LEAGUE, I_WANT_TO_GET_BANNED)
 
 hash_extractor = re.compile('''\<input type="hidden" name="hash" value="([a-zA-Z0-9]+)" id="hash"\>''')
 #<input type="hidden" name="hash" value="ed99f40eec40b691ccf69badb36b5e74" id="hash">
@@ -185,3 +185,15 @@ class MyStash:
     def display_items(self, stash):
         details = self.cur.execute('''SELECT * FROM items WHERE stash_ind=?''', (stash, )).fetchall()
         print(tabulate(details, headers=details[0].keys(), tablefmt='psql'))
+
+    def vendor(self, stash_ind):
+        scraps = self.cur.execute('''SELECT * FROM items WHERE stash_ind=? AND whispers=0''', (stash_ind, )).fetchall()
+        print(tabulate(scraps, headers=scraps[0].keys(), tablefmt='psql'))
+
+        if I_WANT_TO_GET_BANNED:
+            from xlibs.game import Game
+            game = Game(self.mbd)
+            for scrap in scraps:
+                stash_x = scrap['x']
+                stash_y = scrap['y']
+                game.move_from_stats_to_inventory(stash_ind, stash_x, stash_y)

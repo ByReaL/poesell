@@ -24,4 +24,4 @@ POE_LOG_FILE = r'D:\Games\Path of Exile\logs\Client.txt'
 
 
 # ACTIVATES XLIBS
-I_WANT_TO_GET_BANNED = True
+I_WANT_TO_GET_BANNED = False

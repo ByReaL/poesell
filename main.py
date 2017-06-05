@@ -5,7 +5,7 @@ from __future__ import absolute_import, print_function, division, unicode_litera
 import sqlite3
 
 from libs.mystash import MyStash
-from libs.poetrade import PoeTrade
+from libs.poetrade import Items, Currency
 from libs.whispers import Whispers
 
 from xlibs.game import Game
@@ -35,7 +35,15 @@ while True:
         break
     elif key_in is '':
         mystash.display_stashes()
-    elif key_in is 'vendor':
-        pass
+    elif 'vendor' in key_in:
+        words = key_in.split(' ')
+        if len(words) == 2:
+            ind = words[1]
+            mystash.vendor(ind)
+        else:
+            mystash.display_stashes()
+            print('must provide the stash index')
+    elif key_in is 'stash':
+        mystash.display_stashes()
     else:
         pass
