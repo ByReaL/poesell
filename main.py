@@ -8,13 +8,22 @@ from libs.mystash import MyStash
 from libs.poetrade import PoeTrade
 from libs.whispers import Whispers
 
+from xlibs.game import Game
+
 mdb = sqlite3.connect(':memory:', check_same_thread=False)
 mdb.row_factory = sqlite3.Row
 
-whispers = Whispers(mdb)
-whispers.monitor(True)
+#game = Game(mdb)
+#game.get_cords()
+#game.get_win_size()
+#game.get_item()
+
+#exit()
+
+whispers = Whispers(mdb)  #always initialize first
 mystash = MyStash(mdb)
 
+whispers.monitor(True)
 mystash.display_stashes()
 mystash.display_items(17)
 

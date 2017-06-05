@@ -105,6 +105,9 @@ class Whispers:
         history = self.cur.execute('SELECT * FROM (SELECT * FROM whispers WHERE item=? ORDER BY id DESC LIMIT 20) ORDER BY id ASC', (item,)).fetchall()
         print(tabulate(history, headers=history[0].keys(), tablefmt='psql'))
 
+    def get_unique_count(self, item):
+        return  self.cur.execute('SELECT COUNT(*) FROM (SELECT * FROM whispers WHERE item=? GROUP BY player)', (item,)).fetchone()[0]
+
     def monitor(self, state):
         global _monitor_state
         if state:

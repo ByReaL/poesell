@@ -88,7 +88,8 @@ class MyStash:
             price INTEGER,
             currency TEXT,
             type TEXT,
-            ilvl INTEGER)''')
+            ilvl INTEGER,
+            whispers INTEGER)''')
         self._load_items_in_db()
 
     def _load_items_in_db(self):
@@ -117,9 +118,11 @@ class MyStash:
                     currency = self.__get_item_currency(_note, stash_name)
                     type = self.__get_item_type(item['frameType'])
                     ilvl = item['ilvl']
+                    from main import whispers
+                    wcnt = whispers.get_unique_count(name)
                     self.cur.execute('''
-                                    INSERT INTO items                (name, stash_ind, w, h, x, y, price, currency, type, ilvl)
-                                    VALUES (?,?,?,?,?,?,?,?,?,?)''', (name, stash_ind, w, h, x, y, price, currency, type, ilvl, ))
+                                    INSERT INTO items                  (name, stash_ind, w, h, x, y, price, currency, type, ilvl, whispers)
+                                    VALUES (?,?,?,?,?,?,?,?,?,?,?)''', (name, stash_ind, w, h, x, y, price, currency, type, ilvl, wcnt,))
                 self.mdb.commit()
             else:
                 print('could not load the items from the tab %d' % stash_ind)
@@ -156,6 +159,11 @@ class MyStash:
             6: 'TBD',
             7: 'TBD',
             8: 'TBD',
+            8: 'TBD',
+            9: 'TBD',
+            10: 'TBD',
+            11: 'TBD',
+            12: 'TBD',
         }
         return types[raw_data]
 
