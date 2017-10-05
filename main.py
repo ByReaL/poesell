@@ -25,7 +25,7 @@ mystash = MyStash(mdb)
 
 whispers.monitor(True)
 mystash.display_stashes()
-mystash.display_items(17)
+mystash.display_items(16)
 
 while True:
     key_in = input('# ')
@@ -43,7 +43,7 @@ while True:
         else:
             mystash.display_stashes()
             print('must provide the stash index')
-    elif key_in is 'stash':
+    elif 'stash' in key_in:
         mystash.display_stashes()
     else:
         pass

@@ -17,6 +17,9 @@ hash_extractor = re.compile('''\<input type="hidden" name="hash" value="([a-zA-Z
 #<input type="hidden" name="hash" value="ed99f40eec40b691ccf69badb36b5e74" id="hash">
 
 
+
+
+
 class MyStash:
 
     def __init__(self, mdb):
@@ -130,7 +133,7 @@ class MyStash:
     def __get_item_name(self, line1, line2):
         item_name = line1.replace('<<set:MS>><<set:M>><<set:S>>', '')
         item_name += ' ' + line2.replace('<<set:MS>><<set:M>><<set:S>>', '')
-        return item_name
+        return item_name.strip()
 
     def __get_item_price(self, note, stash_name):
         if '~' in note:
@@ -154,16 +157,15 @@ class MyStash:
             1: 'magic',
             2: 'rare',
             3: 'unique',
-            4: 'TBD',
-            5: 'TBD',
-            6: 'TBD',
-            7: 'TBD',
-            8: 'TBD',
-            8: 'TBD',
-            9: 'TBD',
-            10: 'TBD',
-            11: 'TBD',
-            12: 'TBD',
+            4: 'TBD4',
+            5: 'TBD5',
+            6: 'card',
+            7: 'TBD7',
+            8: 'TBD8',
+            9: 'TBD9',
+            10: 'TBD10',
+            11: 'TBD11',
+            12: 'TBD12',
         }
         return types[raw_data]
 
