@@ -8,7 +8,7 @@ from libs.mystash import MyStash
 from libs.poetrade import Items, Currency
 from libs.whispers import Whispers
 
-from xlibs.game import Game
+#from xlibs.game import Game
 
 mdb = sqlite3.connect(':memory:', check_same_thread=False)
 mdb.row_factory = sqlite3.Row

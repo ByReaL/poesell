@@ -13,13 +13,13 @@ from __future__ import absolute_import, print_function, division, unicode_litera
 # MY STASH
 POE_LOGIN_EMAIL    = r'some@email.com'
 POE_LOGIN_PASSWORD = r'<your password in clear at your own risk>'
-POE_LEAGUE         = r'Legacy'
+POE_LEAGUE         = r'Harbinger'
 
 # POE TRADE
 
 
 # WHISPERS
-POE_LOG_FILE = r'D:\Games\Path of Exile\logs\Client.txt'
+POE_LOG_FILE = r'C:\Games\Path of Exile\logs\Client.txt'
 
 
 

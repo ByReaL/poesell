@@ -12,9 +12,9 @@ import time
 from threading import Thread
 from tabulate import tabulate
 
-from settings import POE_LOG_FILE
+from settings import POE_LOG_FILE, POE_LEAGUE
 
-whisper_extractor = re.compile('''^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}).*@From (.*): Hi, I would like to buy your (.*) listed for ([0-9]+) (.*) in Legacy .*''')
+whisper_extractor = re.compile('''^([0-9]{4}/[0-9]{2}/[0-9]{2} [0-9]{2}:[0-9]{2}:[0-9]{2}).*@From (.*): Hi, I would like to buy your (.*) listed for ([0-9]+) (.*) in %s .*''' % (POE_LEAGUE,))
 #2017/05/17 09:43:48 242550390 951 [INFO Client 4196] @From Harvesting_Season: Hi, I would like to buy your Sacrificial Harvest Viridian Jewel listed for 1 fusing in Legacy (stash tab "~b/o 1 fuse"; position: left 1, top 4)
 
 _monitor_state = False
