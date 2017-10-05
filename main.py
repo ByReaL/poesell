@@ -14,7 +14,7 @@ mdb = sqlite3.connect(':memory:', check_same_thread=False)
 mdb.row_factory = sqlite3.Row
 
 #game = Game(mdb)
-#game.get_cords()
+#game.get_mouse_position()
 #game.get_win_size()
 #game.get_item()
 
@@ -25,7 +25,7 @@ mystash = MyStash(mdb)
 
 whispers.monitor(True)
 mystash.display_stashes()
-mystash.display_items(16)
+mystash.display_items(8)
 
 while True:
     key_in = input('# ')
@@ -38,12 +38,19 @@ while True:
     elif 'vendor' in key_in:
         words = key_in.split(' ')
         if len(words) == 2:
-            ind = words[1]
-            mystash.vendor(ind)
+            stash_index = words[1]
+            mystash.vendor(stash_index)
         else:
             mystash.display_stashes()
             print('must provide the stash index')
     elif 'stash' in key_in:
+        words = key_in.split(' ')
+        if len(words) == 2:
+            stash_index = words[1]
+            mystash.display_items(stash_index)
+        else:
+            mystash.display_stashes()
+            print('must provide the stash index')
         mystash.display_stashes()
     else:
         pass

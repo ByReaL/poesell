@@ -70,7 +70,11 @@ class MyStash:
         stash_url = self.stash_url + r'&tabIndex=0'
         r = self.session.get(stash_url)
         data = json.loads(r.content.decode('utf-8'))
-        self.stash_count = int(data['numTabs'])
+        try:
+            self.stash_count = int(data['numTabs'])
+        except Exception as e:
+            print(data)
+            print(e)
         poe_tabs = data['tabs']
         for tab in poe_tabs:
             #{"n":"1","i":0,,"type":"NormalStash","hidden":false,},
@@ -184,18 +188,23 @@ class MyStash:
         details = self.cur.execute('''SELECT * FROM stash''').fetchall()
         print(tabulate(details, headers=details[0].keys(), tablefmt='psql'))
 
-    def display_items(self, stash):
-        details = self.cur.execute('''SELECT * FROM items WHERE stash_ind=?''', (stash, )).fetchall()
+    def display_items(self, stash_index):
+        details = self.cur.execute('''SELECT * FROM items WHERE stash_ind=?''', (stash_index, )).fetchall()
         print(tabulate(details, headers=details[0].keys(), tablefmt='psql'))
 
-    def vendor(self, stash_ind):
-        scraps = self.cur.execute('''SELECT * FROM items WHERE stash_ind=? AND whispers=0''', (stash_ind, )).fetchall()
+    def vendor(self, stash_index):
+        scraps = self.cur.execute('''SELECT * FROM items WHERE stash_ind=? AND whispers=0''', (stash_index, )).fetchall()
         print(tabulate(scraps, headers=scraps[0].keys(), tablefmt='psql'))
 
         if I_WANT_TO_GET_BANNED:
             from xlibs.game import Game
-            game = Game(self.mbd)
+            game = Game(self.mdb)
+            game.focus()
+            game.get_window_size()
+            exit()
+            game.open_stash()
+            game.go_to_stash_tab(stash_index)
             for scrap in scraps:
                 stash_x = scrap['x']
                 stash_y = scrap['y']
-                game.move_from_stats_to_inventory(stash_ind, stash_x, stash_y)
+                game.move_from_stats_to_inventory(stash_x, stash_y)
